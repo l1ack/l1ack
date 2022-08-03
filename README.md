@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Casual Inference！
-- 🌱 I’m currently learning Database！
-- 👯 I’m looking to collaborate on database devOps！
+- 🔭 I’m currently working on Representation learning and Casual Inference！
+- 🌱 I’m currently learning Computer Network！
+- 👯 I’m looking to collaborate on Multimedia Research！
 - 🤔 I’m looking for help with Paper！
 - 💬 Ask me about ...
-- 📫 How to reach me: 390227086@qq.com
+- 📫 How to reach me: xueyueronghit@gmail.com
 - 😄 Pronouns: avatar
-- ⚡ Fun fact: unreality Engine!
+- ⚡ Fun fact: Connect everything!
 
